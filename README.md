@@ -1,7 +1,7 @@
 # reverse-clock
 A clock which goes back in time
 
-## Running Locally ##
+## Running Locally via Docker ##
 
 
 `docker run -p 8080:8080 reverse-clock`
